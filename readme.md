@@ -2,4 +2,4 @@
 
 ## Pagina Inicial
 
-<Img src="./Bolo" alt="img bolo">
+<img src="./images/Bolo.png" alt="img bolo" />
